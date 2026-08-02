@@ -4,5 +4,5 @@ pydantic
 joblib
 numpy<2.0.0
 pandas
-scikit-learn==1.3.2
+scikit-learn==1.2.2
 shap
